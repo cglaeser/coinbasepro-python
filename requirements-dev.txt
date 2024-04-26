@@ -9,7 +9,7 @@ pluggy==0.8.0
 py==1.7.0
 pymongo==3.7.2
 pytest==4.0.1
-python-dateutil==2.7.5
+python-dateutil==2.9.0.post0
 requests==2.20.1
 six==1.11.0
 sortedcontainers==2.1.0
